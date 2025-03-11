@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jul0j
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning programing in C++ and JS 
+- 🌱 I’m currently learning programing in Python and C#dd
 - 💞️ I’m looking to collaborate on nothing🤷‍♂️
 - 📫 How to reach me on e-mail 
 
